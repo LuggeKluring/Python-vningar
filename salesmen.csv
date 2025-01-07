@@ -1,7 +1,7 @@
-ID,Name,Region
-1,Dwight,South
-2,Jim,South
-3,Stanley,North
-4,Pam,South
-5,Andy,North
-6,Phyllis,West
+ID ,Name    ,Region
+ 1 ,Dwight  ,South
+ 2 ,Jim     ,South
+ 3 ,Stanley ,North
+ 4 ,Pam     ,South
+ 5 ,Andy    ,North
+ 6 ,Phyllis ,West
