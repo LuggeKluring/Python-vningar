@@ -4,3 +4,4 @@ ProductID ,Product number ,Quantity ,Price ($) ,Salesman ID
         2 ,             3 ,      45 ,      1.5 ,          2
         2 ,             2 ,      10 ,     10.0 ,          2
         2 ,          5689 ,       3 ,    450.0 ,          1
+2,14,13,120.0,3
